@@ -1,3 +1,4 @@
+![logo](https://github.com/YashPrajapati27/Customer-Segmentation/blob/main/customer%20k%20means%20clustering%20image.jpg)
 # Customer Segmentation Project
 
 ## Project Overview
